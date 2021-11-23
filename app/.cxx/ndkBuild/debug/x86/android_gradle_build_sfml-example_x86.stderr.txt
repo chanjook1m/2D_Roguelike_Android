@@ -1,0 +1,4 @@
+C:/Users/1z3r0/Desktop/tut/SFML/examples/android/app/src/main/jni/main.cpp:116:21: warning: 16 enumeration values not handled in switch: 'TextEntered', 'KeyReleased', 'MouseWheelMoved'... [-Wswitch]
+            switch (event.type)
+                    ^
+1 warning generated.

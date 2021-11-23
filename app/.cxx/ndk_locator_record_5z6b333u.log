@@ -1,0 +1,38 @@
+[
+  {
+    "level": "INFO",
+    "message": "android.ndkVersion from module build.gradle is not set"
+  },
+  {
+    "level": "INFO",
+    "message": "ndk.dir in local.properties is C:/Users/1z3r0/AppData/Local/Android/Sdk/ndk/21.1.6352462"
+  },
+  {
+    "level": "INFO",
+    "message": "ANDROID_NDK_HOME environment variable is not set"
+  },
+  {
+    "level": "INFO",
+    "message": "sdkFolder is C:\\Users\\1z3r0\\AppData\\Local\\Android\\Sdk"
+  },
+  {
+    "level": "INFO",
+    "message": "Considering C:\\Users\\1z3r0\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462 by ndk.dir"
+  },
+  {
+    "level": "INFO",
+    "message": "Considering C:\\Users\\1z3r0\\AppData\\Local\\Android\\Sdk\\ndk-bundle in SDK ndk-bundle folder"
+  },
+  {
+    "level": "INFO",
+    "message": "Considering C:\\Users\\1z3r0\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462 in SDK ndk folder"
+  },
+  {
+    "level": "INFO",
+    "message": "Considering C:\\Users\\1z3r0\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529 in SDK ndk folder"
+  },
+  {
+    "level": "INFO",
+    "message": "Found requested ndk.dir (C:\\Users\\1z3r0\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462) which has version 21.1.6352462"
+  }
+]

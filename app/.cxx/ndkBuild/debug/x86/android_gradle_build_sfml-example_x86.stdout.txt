@@ -1,0 +1,9 @@
+[x86] Compile++      : sfml-example <= main.cpp
+[x86] Prebuilt       : libsfml-graphics-d.so <= <NDK>/sources/third_party/sfml/lib/x86/
+[x86] Prebuilt       : libsfml-audio-d.so <= <NDK>/sources/third_party/sfml/lib/x86/
+[x86] Prebuilt       : libsfml-network-d.so <= <NDK>/sources/third_party/sfml/lib/x86/
+[x86] Prebuilt       : libsfml-activity-d.so <= <NDK>/sources/third_party/sfml/lib/x86/
+[x86] Prebuilt       : libopenal.so <= <NDK>/sources/third_party/sfml/extlibs/lib/x86/
+[x86] Prebuilt       : libsfml-window-d.so <= <NDK>/sources/third_party/sfml/lib/x86/
+[x86] Prebuilt       : libsfml-system-d.so <= <NDK>/sources/third_party/sfml/lib/x86/
+[x86] SharedLibrary  : libsfml-example.so
